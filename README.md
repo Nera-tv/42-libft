@@ -123,5 +123,3 @@ $ make bonus
 -   Imperative programming  
 -   Rigor  
 -   Algorithms & AI
-
-### [Go back](https://github.com/Neress-dono/common-core_42)
