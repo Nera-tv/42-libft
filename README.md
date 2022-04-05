@@ -95,8 +95,7 @@ The function is written in C language and thus needs the  **`gcc`  compiler**  a
 **Cloning the repositories**
 
 ```shell
-git clone https://github.com/Neress-dono/Tronc-Commun_42.git 
-cd Tronc-Commun_42/libft
+git clone https://github.com/Nera-tv/libft.git libft
 ```
 
 **2. Compiling the library**
